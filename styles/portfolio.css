@@ -17,6 +17,17 @@
   border-radius: 5px;
   background: #fd6e0a;
 }
+.btn-secondary {
+  margin-left: 30px;
+  color: #fd6e0a;
+  font-weight: 700;
+  font-size: 20px;
+  /* box-sizing: border-box; */
+  padding: 17px 24px;
+  border: 1px solid #fd6e0a;
+  border-radius: 5px;
+  background: #fff8f3;
+}
 
 /* Header Styles */
 
