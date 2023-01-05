@@ -37,7 +37,7 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 50px 200px;
+  padding: 50px 200px;
 }
 
 nav ul {
@@ -56,6 +56,7 @@ nav li {
   margin: 0 200px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .banner-title {
@@ -217,7 +218,7 @@ textarea {
   padding: 18px 30px;
 }
 input {
-  height: 64px;
+  height: 34px;
 }
 .contact a {
   text-decoration: none;
